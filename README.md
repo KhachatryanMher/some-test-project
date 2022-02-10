@@ -1,2 +1,3 @@
-# Just-App
-# script ը պետքա html ֆայլ գեներացնի, page ում պետքա տպի մեկ վերնագիր մեկ պարագրաֆ(բայց երկու անգամ ա տպում էտ բագը դեռ չեմ ֆիքսել) .html ֆայլը գտնվում է dist folder ի մեջ
+# test App
+# Description
+the script should be generate html page, in this page script should be print one title and one paragraph
